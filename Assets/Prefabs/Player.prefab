@@ -509,7 +509,7 @@ MonoBehaviour:
   _projectilePrefab: {fileID: 1321807562030317158, guid: 732e26445f2d5ee48a88796ab4479a1a, type: 3}
   _firePoint: {fileID: 7205770862982119142}
   _cooldown: 0.4
-  _maxAmmo: 21
+  _maxAmmo: 30
 --- !u!114 &1212810826293487857
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -934,7 +934,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 2}
-  m_SizeDelta: {x: 1, y: 1}
+  m_SizeDelta: {x: 10, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5771705425059789339
 CanvasRenderer:
