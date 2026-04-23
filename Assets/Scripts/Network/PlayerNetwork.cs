@@ -108,7 +108,7 @@ public class PlayerNetwork : NetworkBehaviour
         TPPlayerObserversRpc(newPosition);
         
         HP.Value = 100;
-        Ammo.Value = 10;
+        Ammo.Value = 30;
         IsAlive.Value = true;
     }
 
